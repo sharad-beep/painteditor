@@ -1,0 +1,33 @@
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\notepad.About.resources
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\notepad.Form1.resources
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\notepad.Form2.resources
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\rushikesh tejane\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\notepad.About.resources
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\notepad.Form1.resources
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\notepad.Form2.resources
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\HP\Desktop\sharad\CV\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
